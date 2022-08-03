@@ -52,7 +52,7 @@ export const ServiceTitle = styled.h1`
     margin-bottom: 40px;
     `
 export const ServiceDescription = styled.p`
-font-size: 20px;
+font-size: 16px;
 color: #5692b9;
 max-width: 600px;
 `

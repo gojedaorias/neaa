@@ -12,6 +12,11 @@ export const ContactContainer = styled.div`
     box-shadow:0px 8.848px 8.848px -2.6544px rgba(0, 0, 0, 0.15) ;
     padding: 60px 35px 45px;
     justify-content: space-between;
+
+    @media (max-width: 768px) {
+        width: 95vw;
+        margin: 0 2.5vw;
+    }
     `
 export const ContactHeader = styled.div`
     display: flex;
