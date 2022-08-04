@@ -74,7 +74,7 @@ box-shadow: 0px 8.848px 8.848px -2.6544px rgba(0, 0, 0, 0.15);
 
 
 h3{
-    font-size: 36px;
+    font-size: 26px;
     font-weight: bold;
 
     @media (max-width: 768px) {

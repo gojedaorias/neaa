@@ -8,7 +8,7 @@ export const Contact = () => {
     return (
         <ContactContainer id="contact">
             <ContactInfo>
-                <ContactTitle>Contact Us</ContactTitle>
+                <ContactTitle>Un Equipo con experiencia, al la distancia de un mensaje.</ContactTitle>
                 <ContactText>
                     Et has minim elitr intellegat. Mea aeterno eleifend antiopam ad, nam no suscipit quaerendum. At nam minimum ponderum.
                 </ContactText>

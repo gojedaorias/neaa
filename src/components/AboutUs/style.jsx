@@ -27,7 +27,7 @@ export const AboutText = styled.p`
 export const AboutProfileContainer = styled.div`
     display: flex;
     flex-direction:row;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     gap:80px;
 
@@ -48,12 +48,19 @@ export const AboutProfileImage = styled.img`
     margin-bottom: 20px;
     `
 export const AboutProfileName = styled.h3`
-    font-size: 20px;
+    font-size: 26px;
     font-weight: bold;
+    text-align: center;
     color: #1A046F;
     `
 export const AboutProfileTitle = styled.h4`
     font-size: 14px;
     color:#5692B9;
-    margin-top: -10px;
+    text-align: center;
+    margin-bottom: 20px;
+    `
+export const AboutProfileDescription = styled.p`
+    font-size: 14px;
+    color: #1A046F;
+    text-align: center;
     `

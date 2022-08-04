@@ -15,10 +15,10 @@ export const Hero = () => {
             <HeroContainer>
                 <HeroContent>
                     <HeroTitle>
-                        Lorem ipsum dolor sit amet eam quas malorum.
+                        Nuestra experiencia al servicio de tus peces.
                     </HeroTitle>
                     <HeroSubtitle>
-                        Lorem ipsum dolor sit amet eam quas malorum.
+                        Mejorando tus tiempos de ejecucion y optimizando tus recursos.
                     </HeroSubtitle>
                     <HeroButton href="#servicios">
                         Nuestros Servicios

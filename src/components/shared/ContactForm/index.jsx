@@ -35,9 +35,9 @@ const ContactForm = () => {
     return (
         <ContactContainer>
             <ContactHeader>
-                <ContactTitle>Contact</ContactTitle>
+                <ContactTitle>Escribenos y conversemos.</ContactTitle>
                 <ContactSubtitle>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Podemos optimizar tus procesos de fondeo y de ejecución de tus proyectos.
                 </ContactSubtitle>
             </ContactHeader>
             <ContactFormContainer onSubmit={handleSubmit(onSubmit)}>

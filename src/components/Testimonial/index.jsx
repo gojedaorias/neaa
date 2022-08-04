@@ -12,10 +12,9 @@ import logoSpotify from '../../assets/logos/spotify.png';
 export const Testimonial = () => {
   return (
     <TestimonialContainer>
-      <TestimonialTitle>Testimonial</TestimonialTitle>
+      <TestimonialTitle>Ellos ya han confiado en nosotros</TestimonialTitle>
       <TestimonialText>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
-        euismod, nisi eu consectetur consectetur.
+        Nos esmeramos en ofrecer soluciones para darle valor a tus procesos de producción y logramos que tus proyectos sean más eficaces y económicos.
       </TestimonialText>
       <TestimonialLogos>
         <img src={logoBootstrap} alt='logo de Bootstrap' />
@@ -23,7 +22,7 @@ export const Testimonial = () => {
         <img src={logoSpotify} alt='logo de Spotify' />
       </TestimonialLogos>
       <TestimonialCTA>
-        <h3>Lorem ipsum dolor sit amet eam</h3>
+        <h3>¿Quieres reducir los riesgos en tu proceso de ...?</h3>
         <a href='#contacto'>Comienza hoy</a>
       </TestimonialCTA>
     </TestimonialContainer>
