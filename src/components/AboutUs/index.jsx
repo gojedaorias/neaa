@@ -3,7 +3,7 @@ import profile1 from "../../assets/img/profile1.png"
 
 export const AboutUs = () => {
     return (
-        <AboutContainer>
+        <AboutContainer id="nosotros">
             <AboutTitle>About Us</AboutTitle>
             <AboutText>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.

@@ -4,7 +4,7 @@ import { SetMealSharp } from '@mui/icons-material';
 
 export const ServiceSection = () => {
     return (
-        <ServiceContainer>
+        <ServiceContainer id="services">
             <ServiceCard icon={SetMealSharp} />
             <ServiceCard icon={SetMealSharp} secondary={true} />
             <ServiceCard icon={SetMealSharp} />
