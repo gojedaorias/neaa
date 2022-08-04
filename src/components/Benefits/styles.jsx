@@ -30,6 +30,5 @@ grid-gap: 30px;
 
 @media (max-width: 768px) {
     grid-template-columns: 1fr;
-    /* grid-template-rows: repeat(6,minmax(350px,1fr)); */
 }
 `
