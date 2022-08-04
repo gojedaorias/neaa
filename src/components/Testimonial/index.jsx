@@ -7,7 +7,7 @@ import {
 } from './style';
 import logoBootstrap from '../../assets/logos/Bootstrap.svg';
 import logoGoogle from '../../assets/logos/google.png';
-import logoSpotify from '../../assets/logos/Spotify.svg';
+import logoSpotify from '../../assets/logos/Spotify.png';
 
 export const Testimonial = () => {
   return (
