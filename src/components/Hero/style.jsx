@@ -2,7 +2,7 @@ import styled from "styled-components";
 import HeroBg from "../../assets/img/herobg.png";
 
 export const HeroContainer = styled.div`
-margin-top: 85px;
+margin-top: 60px;
 display: flex;
 height: 600px;
 background: url(${HeroBg}) no-repeat center;
